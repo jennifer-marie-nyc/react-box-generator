@@ -38,8 +38,8 @@ This project was built during my Coding Dojo bootcamp as a hands-on way to pract
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/jennifer-marie-nyc/react-box-generator.git
+cd react-box-generator
 
 # Install dependencies
 npm install
