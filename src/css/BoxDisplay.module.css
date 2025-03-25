@@ -1,0 +1,30 @@
+.boxContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: none;
+}
+
+.box {
+    height: 5rem;
+    width: 5rem;
+    margin: 1rem;
+    padding: .2rem;
+    background-color: ghostwhite;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.box i {
+    background-color: gray;
+    border-radius: 25%;
+    height: 25%;
+    min-height: 15px;
+    width: 25%;
+    min-width: 15px;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
